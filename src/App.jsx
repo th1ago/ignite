@@ -1,6 +1,6 @@
-export function App() {
+import './styles/global.scss';
 
-    throw new Error("deu ruim")
+export function App() {
 
     return <h1>FullMetal</h1>
 }
