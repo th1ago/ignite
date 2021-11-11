@@ -1,3 +1,6 @@
 export function App() {
-    return <h1>Ignite</h1>
+
+    throw new Error("deu ruim")
+
+    return <h1>FullMetal</h1>
 }
